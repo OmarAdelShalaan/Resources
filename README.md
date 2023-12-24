@@ -1,4 +1,10 @@
 # Resources
+### ISTQB Foundation Level 2018 (AR)
+https://www.youtube.com/playlist?list=PLbJF4g421wqnHTxbGDgm-vqgl3wfj5mMg
+### ISTQB AUTOMOTIVE TESTER 2023
+https://www.youtube.com/playlist?list=PLj5VKaW115t0fwP6gfHts-geL-UqN6BOe
+### C and Embedded C NTI Course
+https://drive.google.com/drive/u/0/folders/1ZgULrDYF8q3MrIsxs8saYl0fclMYRXdQ
 ### ICPC - Junior Training Sheet - Demo (Arabic)
 https://www.youtube.com/watch?v=c3lmvYBxgwE&ab_channel=ArabicCompetitiveProgramming
 ### Junior Training Sheet V7.0 - <<<READ row 34 to make your own EDITABLE COPY>>>
@@ -32,12 +38,6 @@ https://drive.google.com/file/d/0B-xWBBQzf-YkZklyVzhmWS1oMVk/edit?fbclid=IwAR3ek
 https://docs.google.com/file/d/0B5_mAdKvdKTlQlBPS2pwbE9ONFE/edit?resourcekey=0--86qfwS_AFjtkmQOlgw7uA
 ### Solving Problems
 https://www.hackerrank.com/domains/c
-### C and Embedded C NTI Course
-https://drive.google.com/drive/u/0/folders/1ZgULrDYF8q3MrIsxs8saYl0fclMYRXdQ
-### ISTQB Foundation Level 2018 (AR)
-https://www.youtube.com/playlist?list=PLbJF4g421wqnHTxbGDgm-vqgl3wfj5mMg
-### ISTQB AUTOMOTIVE TESTER 2023
-https://www.youtube.com/playlist?list=PLj5VKaW115t0fwP6gfHts-geL-UqN6BOe
 
 
 
