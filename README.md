@@ -36,6 +36,8 @@ https://drive.google.com/file/d/0B-xWBBQzf-YkZklyVzhmWS1oMVk/edit?fbclid=IwAR3ek
 https://docs.google.com/file/d/0B5_mAdKvdKTlQlBPS2pwbE9ONFE/edit?resourcekey=0--86qfwS_AFjtkmQOlgw7uA
 ### Solving Problems
 https://www.hackerrank.com/domains/c
+### C and Embedded C NTI Course
+https://drive.google.com/drive/u/0/folders/1ZgULrDYF8q3MrIsxs8saYl0fclMYRXdQ
 
 
 
