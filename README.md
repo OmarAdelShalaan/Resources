@@ -11,6 +11,32 @@ https://docs.google.com/spreadsheets/d/1ClmoHFMqQKOHinRhrId42sbofQ0T0IyaFzZcEcVv
 https://www.youtube.com/playlist?list=PLbJF4g421wqnHTxbGDgm-vqgl3wfj5mMg
 ### ISTQB AUTOMOTIVE TESTER 2023
 https://www.youtube.com/playlist?list=PLj5VKaW115t0fwP6gfHts-geL-UqN6BOe
+### Bash Scripting on Linux
+https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w
+### C
+https://www.geeksforgeeks.org/c-programming-language/
+https://www.nesoacademy.org/pl/02-c-programming
+https://www.sololearn.com/learn/courses/le-c
+### C++
+https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD
+### Data Structure
+https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS
+### Git
+https://almdrasa.com/tracks/programming-foundations/courses/git-github/
+https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
+### Simply Books
+https://simplyarduino.com/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%83%d8%aa%d8%a8-%d8%aa%d8%b9%d9%84%d9%85-%d8%a8%d8%a8%d8%b3%d8%a7%d8%b7%d8%a9/?fbclid=IwAR1HKn6b7lJLc-0jKl_p_vnwYM07RIEG2PVy37GNWGrWBoZYhXvF-qA1Tfk
+### Arduino
+https://drive.google.com/drive/u/0/folders/0B9613dDlpUaVMHNOTEpqVUhaYTA?resourcekey=0-9kty6FgYsSl38qvpAEBaTA&fbclid=IwAR3ekBHS1ECWh4qk2Fstu570Wh6NMaBcEmwVQd6Cmcb1UKFQ7LdWyuNYLn4
+### AVR
+https://drive.google.com/file/d/0B9613dDlpUaVWWFURUlqdV9NWU0/view?resourcekey=0-_6xi_VyLs0s5jVyC6pfI5A
+### How use Proteus
+https://drive.google.com/file/d/0B-xWBBQzf-YkZklyVzhmWS1oMVk/edit?fbclid=IwAR3ekBHS1ECWh4qk2Fstu570Wh6NMaBcEmwVQd6Cmcb1UKFQ7LdWyuNYLn4&resourcekey=0-PJp6ceiyyI5_i0K6AcPGLQ
+### The AVR Microcontroller and Embedded System by Muhammad Ali Mazidi
+https://docs.google.com/file/d/0B5_mAdKvdKTlQlBPS2pwbE9ONFE/edit?resourcekey=0--86qfwS_AFjtkmQOlgw7uA
+### Solving Problems
+https://www.hackerrank.com/domains/c
+
 
 
 
