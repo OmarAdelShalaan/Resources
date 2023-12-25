@@ -1,4 +1,10 @@
 # Resources
+### Version Control with Git
+https://www.udacity.com/course/version-control-with-git--ud123
+### How to Create a Simple Makefile - Introduction to Makefiles
+https://www.youtube.com/watch?v=_r7i5X0rXJk&ab_channel=PaulProgramming
+### Embedded Boot-Loader Design Course
+https://www.youtube.com/playlist?list=PLl3yF2kjT6AzLxhOuCEBY-8RzOIB1sfnN
 ### AUTOSAR ببساطة
 https://www.youtube.com/playlist?list=PLsyuUqkfBTYoThiT9Bco7BWwFx8j0Q0kk
 ### ISTQB Foundation Level 2018 (AR)
