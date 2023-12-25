@@ -1,4 +1,6 @@
 # Resources
+### AUTOSAR ببساطة
+https://www.youtube.com/playlist?list=PLsyuUqkfBTYoThiT9Bco7BWwFx8j0Q0kk
 ### ISTQB Foundation Level 2018 (AR)
 https://www.youtube.com/playlist?list=PLbJF4g421wqnHTxbGDgm-vqgl3wfj5mMg
 ### ISTQB AUTOMOTIVE TESTER 2023
