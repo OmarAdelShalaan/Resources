@@ -3,6 +3,7 @@
 https://www.udacity.com/course/version-control-with-git--ud123
 ### How to Create a Simple Makefile - Introduction to Makefiles
 https://www.youtube.com/watch?v=_r7i5X0rXJk&ab_channel=PaulProgramming
+https://www.includehelp.com/c-programming-questions/what-is-makefile.aspx#:~:text=Makefile%20is%20a%20tool%20to,to%20remove%20object%2C%20binary%20files
 ### Embedded Boot-Loader Design Course
 https://www.youtube.com/playlist?list=PLl3yF2kjT6AzLxhOuCEBY-8RzOIB1sfnN
 ### AUTOSAR ببساطة
@@ -34,6 +35,8 @@ https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS
 ### Git
 https://almdrasa.com/tracks/programming-foundations/courses/git-github/
 https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF
+https://git-scm.com/docs
+https://www.udacity.com/course/version-control-with-git--ud123
 ### Simply Books
 https://simplyarduino.com/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%83%d8%aa%d8%a8-%d8%aa%d8%b9%d9%84%d9%85-%d8%a8%d8%a8%d8%b3%d8%a7%d8%b7%d8%a9/?fbclid=IwAR1HKn6b7lJLc-0jKl_p_vnwYM07RIEG2PVy37GNWGrWBoZYhXvF-qA1Tfk
 ### Simply Arduino
